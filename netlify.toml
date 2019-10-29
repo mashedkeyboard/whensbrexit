@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/api"
+  to = "/api.json"
+  status = 200
+  force = true
+  headers = {Content-Type = "application/json"}
