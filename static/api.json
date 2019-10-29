@@ -1,11 +1,11 @@
 {
 	"currentMember": true,
-	"scheduledDateOfLeaving": "2019-10-31T23:00:00.000+00:00",
+	"scheduledDateOfLeaving": "2020-01-31T23:00:00.000+00:00",
 	"extension": [{
 		"requestDate": "2019-10-20",
 		"offered": true,
 		"accepted": true,
-		"formalised": false,
+		"formalised": true,
 		"extendDate": "2020-01-31"
 	}, {
 		"requestDate": "2019-04-10",
